@@ -1,6 +1,6 @@
 # Ordenação de Dígitos e  Algoritmos de Ordenação
 
-## Descrição do Problema
+## Descrição do Projeto
 Este projeto implementa três algoritmos de ordenação em C para ordenar os dígitos do RGM do aluno em ordem crescente. Além disso, os algoritmos são aplicados a vetores aleatórios de diferentes tamanhos para análise de desempenho. 
 
 O objetivo é comparar os métodos em termos de:
