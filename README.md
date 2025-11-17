@@ -22,8 +22,11 @@ Escolhi três algoritmos clássicos:
 > No terminal, dentro da pasta `src`:
 > ```bash
 > gcc -O1 -std=c11 main.c -o ordena
+> ```
+>  Para rodar o arquivo
+> ```bash
 > ./ordena
->
+> ```
 > O programa solicitará que você digite seu RGM e, em seguida, imprimirá os resultados em formato CSV, incluindo número de passos e tempo de execução.
 > O programa imprime os resultados em formato CSV, incluindo número de passos e tempo de execução.
 
